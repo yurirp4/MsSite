@@ -1,0 +1,7 @@
+name: staffhcat
+version: 2.3
+author: yurirp4
+main: MsSite.Main
+Description: Esse plugin foi feito n lembro o nome
+commands:
+  s:
